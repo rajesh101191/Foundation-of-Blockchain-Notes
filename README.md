@@ -1,6 +1,6 @@
 # Foundations of Blockchain Technology
 
-![Blockchain Architecture](Blockchain-Architecture.png)
+![Blockchain Architecture](Blockchain%20Architecture.png)
 
 ## Overview
 
