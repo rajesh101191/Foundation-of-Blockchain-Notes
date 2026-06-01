@@ -18,6 +18,8 @@ This repository provides teaching resources developed for the undergraduate cour
 - Smart Contracts
 - Solidity
 - Blockchain Governance
+- 
+Note: If GitHub cannot preview certain PDF files, please download them directly for viewing.
 
 ## Course Materials
 
